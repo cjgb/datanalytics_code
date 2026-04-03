@@ -1,4 +1,4 @@
-# 2026-proyecto-kepler: Kepler meets Bayes
+# Kepler meets Bayes
 
 This project performs a Bayesian estimation of the Earth's orbit eccentricity using modern NASA ephemeris data and the `NumPyro` probabilistic programming library. It aims to reproduce and extend Johannes Kepler's historical work by quantifying the uncertainty in his point estimates.
 
