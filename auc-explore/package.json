@@ -1,0 +1,9 @@
+{
+  "name": "auc-explorer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-contained AUC explorer page + dependency-free test suite",
+  "scripts": {
+    "test": "node --test"
+  }
+}
